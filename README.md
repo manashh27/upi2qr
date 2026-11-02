@@ -1,4 +1,5 @@
 Generate dynamic payments in milliseconds.
+No Sign up
 
 ## Features
 - **Universal Support**: Works with UPI (GPay, PhonePe, Paytm, BHIM) and Crypto (LTC, USDT).
